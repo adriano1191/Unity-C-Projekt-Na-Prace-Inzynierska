@@ -1,0 +1,61 @@
+﻿LANGUAGE_PL;Polish
+LANGUAGE_EN;English
+BTN_NEW_GAME;New Game
+BTN_LOAD_GAME;Load Game
+BTN_OPTIONS;Options
+BTN_EXIT;Exit
+LABEL_TURN_ON;On
+LABEL_TURN_OFF;Off
+LABEL_RESOLUTIONS;Resolution
+LABEL_FULLSCREEN;Fullscreen
+LABEL_LANGUAGE;Language
+BTN_SAVE;Save
+BTN_CANCEL;Cancel
+LABEL_MAP_SIZE;Map Size
+LABEL_MAP_SIZE_SMALL;Small
+LABEL_MAP_SIZE_MEDIUM;Medium
+LABEL_MAP_SIZE_BIG;Big
+LABEL_DIFFICULTY;Difficulty
+LABEL_NOT_AVAILABLE;Not available
+BTN_PLAY;Play
+BTN_SAVE_GAME;Sage Game
+BTN_END_GAME;End Game
+BTN_BACK_TO_GAME;Back to game
+LABEL_END_TURN;End turn
+LABEL_WAIT;Wait
+LABEL_GOLD;Gold
+TOOLTIP_GOLD;Number of owned gold. If the value of gold is negative units deal 50% less damage. In parenthesis I find the value generated gold each turn.
+LABEL_CRYSTAL;Crystals
+TOOLTIP_CRYSTAL;Number of owned crystals that are necessary to create improvements planets and shipbuilding. In parenthesis I find the number of crystals generated in each turn.
+LABEL_PLANETS;Planets
+TOOLTIP_PLANETS;Number of owned planets
+TOOLTIP_END_TURN;End your turn
+LABEL_HEALTH_POINT;Hit points
+LABEL_BARRIER;Barrier
+LABEL_DMG;Damage
+LABEL_SKILLS;Skills
+TOOLTIP_MOVE;Move unit
+TOOLTIP_ATTACK;Attack unit
+TOOLTIP_SPECIAL_MOVE0;Currently Unavailable
+TOOLTIP_SPECIAL_MOVE1;Currently Unavailable
+TOOLTIP_SPECIAL_MOVE2;Taking control of free planet, on which ship is on.
+TOOLTIP_SPECIAL_MOVE3;Currently Unavailable
+TOOLTIP_SPECIAL_SECOND_MOVE0;Currently Unavailable
+TOOLTIP_SPECIAL_SECOND_MOVE1;Currently Unavailable
+TOOLTIP_SPECIAL_SECOND_MOVE2;Currently Unavailable
+TOOLTIP_SPECIAL_SECOND_MOVE3;Currently Unavailable
+BTN_BUILD_BUILDING0;Budynek0
+BTN_BUILD_BUILDING1;Budynek1
+BTN_BUILD_BUILDING2;Budynek2
+BTN_BUILD_BUILDING3;Budynek3
+TOOLTIP_BUILDING0;Base cost: 250 crystals, creates a base on the planet's surface, it brings out the materials and allows the construction of the port and barracks.
+TOOLTIP_BUILDING1;Port cost: 200 crystals, the building allows the construction of small ships and the construction of barracks also allows you to create large ships.
+TOOLTIP_BUILDING2;Barracks cost: 150 crystals, building allows you to create colony ships necessary to take control of new planets.
+TOOLTIP_BUILDING3;Research facility cost: 1000 crystals, Currently Unavailable.
+TOOLTIP_SHIP0;Small ship cost: 100 crystals, 10 gold per turn, basic unit in the game.
+TOOLTIP_SHIP1;Big ship cost: 250 crystals, 25 gold per turn, a stronger version of a small ship, the larger, more powerful and more expensive to maintain.
+TOOLTIP_SHIP2;Colony ship cost: 500 crystals, 10 gold per turn, ship designed to take control of free planets.
+TOOLTIP_SHIP3;Currently Unavailable
+LABEL_VICTORY;Victory
+LABEL_DEFEAT;Defeat
+LABEL_AI_NUMBER;Enemies

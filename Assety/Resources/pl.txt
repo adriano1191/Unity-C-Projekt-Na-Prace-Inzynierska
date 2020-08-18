@@ -1,0 +1,61 @@
+﻿LANGUAGE_PL;Polski
+LANGUAGE_EN;Angielski
+BTN_NEW_GAME;Nowa Gra
+BTN_LOAD_GAME;Wczytaj Grę
+BTN_OPTIONS;Opcje
+BTN_EXIT;Wyjdź
+LABEL_TURN_ON;Włącz
+LABEL_TURN_OFF;Wyłącz
+LABEL_RESOLUTIONS;Rozdzielczość
+LABEL_FULLSCREEN;Pełen Ekran
+LABEL_LANGUAGE;Język
+BTN_SAVE;Zapisz
+BTN_CANCEL;Anuluj
+LABEL_MAP_SIZE;Wielkość mapy
+LABEL_MAP_SIZE_SMALL;Mała
+LABEL_MAP_SIZE_MEDIUM;Średnia
+LABEL_MAP_SIZE_BIG;Duża
+LABEL_DIFFICULTY;Poziom Trudności
+LABEL_NOT_AVAILABLE;Niedostępne
+BTN_PLAY;Graj
+BTN_SAVE_GAME;Zapisz grę
+BTN_END_GAME;Zakończ grę
+BTN_BACK_TO_GAME;Wróć do gry
+LABEL_END_TURN;Koniec tury
+LABEL_WAIT;Czekaj
+LABEL_GOLD;Złoto
+TOOLTIP_GOLD;Ilość posiadanego złota. Jeżeli wartość złota jest ujemna jednostki zadają 50% mniejsze obrażenia. W nawiasie znajduję się wartość generowanego złota w każdej turze.
+LABEL_CRYSTAL;Kryształy
+TOOLTIP_CRYSTAL;Ilość posiadanych kryształów które są niezbędne do tworzenia ulepszeń planet oraz budowy statków .W nawiasie znajduję się ilość generowanych kryształów w każdej turze.
+LABEL_PLANETS;Planety
+TOOLTIP_PLANETS;Liczba posiadanych planet
+TOOLTIP_END_TURN;Zakończ swoją turę
+LABEL_HEALTH_POINT;Punkty życia
+LABEL_BARRIER;Bariera
+LABEL_DMG;Obrażenia
+LABEL_SKILLS;Umiejętności
+TOOLTIP_MOVE;Wykonaj ruch
+TOOLTIP_ATTACK;Wykonaj Atak
+TOOLTIP_SPECIAL_MOVE0;Obecnie niedostępne
+TOOLTIP_SPECIAL_MOVE1;Obecnie niedostępne
+TOOLTIP_SPECIAL_MOVE2;Przejmuję wolną planetę na której znajduję się statek.
+TOOLTIP_SPECIAL_MOVE3;Obecnie niedostępne
+TOOLTIP_SPECIAL_SECOND_MOVE0;Obecnie niedostępne
+TOOLTIP_SPECIAL_SECOND_MOVE1;Obecnie niedostępne
+TOOLTIP_SPECIAL_SECOND_MOVE2;Obecnie niedostępne
+TOOLTIP_SPECIAL_SECOND_MOVE3;Obecnie niedostępne
+BTN_BUILD_BUILDING0;Budynek0
+BTN_BUILD_BUILDING1;Budynek1
+BTN_BUILD_BUILDING2;Budynek2
+BTN_BUILD_BUILDING3;Budynek3
+TOOLTIP_BUILDING0;Baza koszt: 250 kryształów, tworzy bazę na powierzchni planety, wydobywa z niej surowce oraz umożliwia budowę portu i koszar.
+TOOLTIP_BUILDING1;Port koszt: 200 kryształów, umożliwia budowę małych statków a po zbudowaniu koszar pozwala także na tworzenie dużych statków.
+TOOLTIP_BUILDING2;Koszary koszt: 150 kryształów, umożliwia tworzenie statków kolonizacyjnych niezbędnych do zajmowania nowych planet.
+TOOLTIP_BUILDING3;Placówka Badawcza koszt: 1000 kryształów, obecnie niedostępne.
+TOOLTIP_SHIP0;Mały statek koszt: 100 kryształów, 10 złota na turę, podstawowa jednostka w grze
+TOOLTIP_SHIP1;Duży statek koszt:  250 kryształów, 25 złota na turę, silniejsza wersja małego statku, jest większy, silniejszy oraz droższy w utrzymaniu.
+TOOLTIP_SHIP2;Statek kolonizacyjny koszt: 500 kryształów, 10 złota na turę, statek przeznaczony do zajmowania wolnych planet.
+TOOLTIP_SHIP3;Obecnie niedostępne
+LABEL_VICTORY;Zwycięstwo
+LABEL_DEFEAT;Porażka
+LABEL_AI_NUMBER;Przeciwnicy
